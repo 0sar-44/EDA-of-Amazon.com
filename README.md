@@ -1,2 +1,2 @@
-# Exploratory Data Analysis of Product.com sales dataset ,
+# Exploratory Data Analysis of Product.com sales dataset
  
